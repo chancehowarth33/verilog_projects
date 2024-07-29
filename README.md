@@ -1,2 +1,2 @@
-# verilog_projects
+# verilog projects
 A repo of my Verilog projects 
